@@ -1,1 +1,1 @@
-stremlit
+pip install stremlit
