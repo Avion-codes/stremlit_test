@@ -6,4 +6,4 @@ name=st.text_input("Enter your name")
 st.title("Take the input ")
 # create button for submite
 if st.button("Submite"):
-  st.write(f"print the name: {name}")
+  st.write(f"print the name: {name}") 
